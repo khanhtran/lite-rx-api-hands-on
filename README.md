@@ -2,8 +2,7 @@
 
 Repos:
 - https://github.com/reactor/lite-rx-api-hands-on
-- https://github.com/reactor/lite-rx-api-hands-on/tree/solution (solution
-- )
+- https://github.com/reactor/lite-rx-api-hands-on/tree/solution (solution)
 Documents: 
 - https://projectreactor.io/docs/core/release/reference/index.html
 - https://tech.io/playgrounds/929/reactive-programming-with-reactor-3/Intro
